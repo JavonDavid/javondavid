@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about databases<br>
 - 🤔 I’m looking for help with creating and program that sends emails when late or absent<br>
 - 💬 Ask me aboutwhat's more important in basketball offence or defence<br>
-- ⚡ Fun fact:im have a uno collection<br>
+- ⚡ Fun fact:i have a uno collection<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JavonDavid) 
